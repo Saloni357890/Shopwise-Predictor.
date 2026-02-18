@@ -1,0 +1,5 @@
+{
+  "name": "ShopWise Predictor",
+  "description": "A smart, friendly shopping price predictor that helps you estimate costs, manage budgets, and shop smarter using Gemini AI.",
+  "requestFramePermissions": []
+}
